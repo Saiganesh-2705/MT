@@ -3,7 +3,9 @@ This is a movie search app using react-hooks, react-router and context API. I've
 
 Screenshots:
 1. Home Page:
-![Uploading image.png…]()
+   ![image](https://github.com/user-attachments/assets/9ebd1aa7-c538-4a43-9cf5-26b69d7d7922)
 
-2. Movie Detail Page:
+
+   
+3. Movie Detail Page:
    

@@ -7,5 +7,6 @@ Screenshots:
 
 
    
-3. Movie Detail Page:
-   
+2. Movie Detail Page:
+   ![image](https://github.com/user-attachments/assets/1be1b1f6-1e16-497c-aced-aea284e4b828)
+
